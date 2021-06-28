@@ -1,16 +1,15 @@
-'# Hello VuePress!' 
 ---
 home: true
-heroImage: /vue-logo.png
-heroText: blog-demo
-tagline: 博客示例
-actionText: 快速上手 →
-actionLink: /
+heroImage: /my-Logo.png
+heroText: 欢迎来到刘浩的博客
+tagline: 一点一滴都是进步，加油哇~
+actionText: 马上进入 →
+actionLink: /blog/FirstBlog.md
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+- title: 学习记录
+  details: 对前端技术的学习笔记
+- title: 问题总结
+  details: 对遇到的问题进行总结反思
+- title: 项目开发
+  details: 项目开发经验，开发过程，以及遇到的问题，如何解决的。
 ---
